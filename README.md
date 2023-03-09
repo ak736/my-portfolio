@@ -12,8 +12,7 @@ This is a ReactJS based personal resume website template for participants of The
 - Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
 #### PROCEDURE:
 - Download the zip folder from Github and unzip it
-Here is the link to download zip 👉
-
+Here is the link to download zip 👉 <a href="https://github.com/ak736/my-portfolio.git">Download files here </a>
 - Open the folder in VS Code
 - Edit <code>src/portfolio.js</code> and add your personal details and projects
 - Open terminal in VS Code
